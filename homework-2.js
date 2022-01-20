@@ -39,3 +39,4 @@ function getFirstElement(){
     console.log(cars[0])
 }
 getFirstElement()
+
